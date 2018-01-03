@@ -8,7 +8,7 @@ public class CheckFile {
 		File file = new File(filepath);
 		
 		ui.View.setOut("**********************************************************\n");
-		ui.View.setOut("The Author of this Dbms is 王硕(物联网工程一班 201501061321)\n");
+		ui.View.setOut("The Author of this Dbms is WShuo97)\n");
 		ui.View.setOut("**********************************************************\n");
 		
 		if (!file.exists()) {
